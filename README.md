@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🚀 Tecnologias/ Technologies
 
-## Getting Started
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-First, run the development server:
+- Next and CSS modules
+- JWT Token
+- Cookies
+- JavaScript
+- React Icons
+- ReactQuery
+- Axios
+- Git and Github
+- Api Node.js 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  This project was developed with the following technologies:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next and CSS modules
+- JWT Token
+- Cookies
+- JavaScript
+- React Icons
+- ReactQuery
+- Axios
+- Git and Github
+- Api Node.js 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Projeto/ Project
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+O Auth foi desenvolvido ser uma tela de login utilizando Next-Auth e Token JWT vindo do back-end, sendo capaz também de fazer o refresh Token para que o user fique logado um tempo na aplicação./ Auth was developed to be a login screen using Next-Auth and JWT Token from the back-end, also being able to refresh Token so that the user stays logged into the application for a while.
 
-## Learn More
+## 🔖 Como executar em sua máquina
+- Baixe o código/ Download the code
+- Baixe o código de minha api e siga as instruções de como rodar ele no seu pc/ Download my api code and follow the instructions on how to run it on your PC
+- Execute o comando Yarn/ Run the Yarn command
+- Execute o comando Yarn dev neste repositório/ Run the Yarn dev command on this repository
 
-To learn more about Next.js, take a look at the following resources:
+![Captura de tela 2024-05-20 142945](https://github.com/annamarcomini/auth/assets/116853315/f325b110-2cdf-468b-bce4-55ff39dcf7e4)
+![Captura de tela 2024-05-20 143004](https://github.com/annamarcomini/auth/assets/116853315/f7fef28a-603f-4c8a-8e72-125fc0ac6f70)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
